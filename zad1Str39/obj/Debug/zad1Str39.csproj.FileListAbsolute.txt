@@ -1,0 +1,5 @@
+C:\Users\Domagoj\Documents\Visual Studio 2015\Projects\zadaci iz PI skripte\zad1Str39\zad1Str39\bin\Debug\zad1Str39.exe.config
+C:\Users\Domagoj\Documents\Visual Studio 2015\Projects\zadaci iz PI skripte\zad1Str39\zad1Str39\bin\Debug\zad1Str39.exe
+C:\Users\Domagoj\Documents\Visual Studio 2015\Projects\zadaci iz PI skripte\zad1Str39\zad1Str39\bin\Debug\zad1Str39.pdb
+C:\Users\Domagoj\Documents\Visual Studio 2015\Projects\zadaci iz PI skripte\zad1Str39\zad1Str39\obj\Debug\zad1Str39.exe
+C:\Users\Domagoj\Documents\Visual Studio 2015\Projects\zadaci iz PI skripte\zad1Str39\zad1Str39\obj\Debug\zad1Str39.pdb
